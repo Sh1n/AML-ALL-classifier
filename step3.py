@@ -1,7 +1,7 @@
 import Orange
 import logging
 import random
-from discretization import *
+from Discretizer import *
 from FeatureSelector import *
 from Normalizer import *
 from utils import *
